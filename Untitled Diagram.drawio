@@ -1,1 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T01:44:53.036Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="aISRIiqW6UDUYd55hFea" type="github"><diagram id="ae4Dz5cbhyNOaqwDIrOG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-17T05:26:53.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="1inO7rZbMkW3x9kZEg0Z" type="github">
+  <diagram id="sDjkkkzCP2xNeZSmB8t3" name="Page-1">
+    <mxGraphModel dx="734" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c2q1pvL_giwz-2hWeTIC-1" value="Triplet:&lt;br&gt;Question, Answer and Rationale&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-120" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="c2q1pvL_giwz-2hWeTIC-2" value="Model: GPT-3&lt;br&gt;3 Templates:&lt;br&gt;Rephrase:&lt;br&gt;Similar:&lt;br&gt;Counterfactual:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-240" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="c2q1pvL_giwz-2hWeTIC-3" value="Outputs:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-360" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="c2q1pvL_giwz-2hWeTIC-4" value="Example of good generalization question:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-480" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="c2q1pvL_giwz-2hWeTIC-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c2q1pvL_giwz-2hWeTIC-1" target="c2q1pvL_giwz-2hWeTIC-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="-60" as="sourcePoint" />
+            <mxPoint x="220" y="-110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="-65" />
+              <mxPoint x="160" y="-185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
